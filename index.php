@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<?php
-			echo "hola mundo soy Roberto.",
+			echo "hola mundo soy Roberto.";
 			echo "Segunda linea.";
 		?>
 	</body>
